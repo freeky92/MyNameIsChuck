@@ -2,5 +2,7 @@
 
 ## Practical lesson based on the video lesson of Roman Andrushchenko 
 
-__Using interface Navigator & fragmentListener based on FragmentManager.FragmentLifecycleCallbacks__ 
+###What was used
+- __Using interface Navigator & fragmentListener based on FragmentManager.FragmentLifecycleCallbacks__ 
+- __JavaFaker library
 
