@@ -1,8 +1,8 @@
-# Android - Fragment lifecycle
+# Android - Fragment lifecycle 
 
 ## Practical lesson based on the video lesson of Roman Andrushchenko 
 
-###What was used
+### What was used 
 - __Using interface Navigator & fragmentListener based on FragmentManager.FragmentLifecycleCallbacks__ 
-- __JavaFaker library
+- __JavaFaker library__
 
